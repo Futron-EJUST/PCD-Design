@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to FUTRON CLUB
 
-You can use the [editor on GitHub](https://github.com/Futron-EJUST/PCD-Design/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**We hope you enjoy throughout the joureny**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Course Description 
 
-### Markdown
+As you know in our electronics projects, we can use breadboard for prototyping and testing. But when we turn into industry, robotics or reliable application in our environments you will find that electronics circuits are printed and assembled on PCB so that A PCB is printed once. You need to get involved in the techniques of design and manufacturing to achieve desired function, size and cost.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Course Content
 
-```markdown
-Syntax highlighted code block
+1. Brief introduction to Proteus software
 
-# Header 1
-## Header 2
-### Header 3
+2. Schematic design
 
-- Bulleted
-- List
+3. PCB layout
 
-1. Numbered
-2. List
+4. Plug and Play Concept
 
-**Bold** and _Italic_ and `Code` text
+5. How to design Double layer PCB
 
-[Link](url) and ![Image](src)
-```
+6. PCB manufacturing & Assembly the board
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The content will be uploaded when courses are launched
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Futron-EJUST/PCD-Design/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Return to [home page](https://futron-ejust.github.io/FUTRON/).
